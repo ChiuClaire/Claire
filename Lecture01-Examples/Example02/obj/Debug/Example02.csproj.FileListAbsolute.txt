@@ -1,0 +1,5 @@
+C:\Claire\Lecture01-Examples\Example02\bin\Debug\Example02.exe.config
+C:\Claire\Lecture01-Examples\Example02\bin\Debug\Example02.exe
+C:\Claire\Lecture01-Examples\Example02\bin\Debug\Example02.pdb
+C:\Claire\Lecture01-Examples\Example02\obj\Debug\Example02.exe
+C:\Claire\Lecture01-Examples\Example02\obj\Debug\Example02.pdb
